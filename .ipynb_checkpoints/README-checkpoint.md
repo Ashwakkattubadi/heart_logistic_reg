@@ -145,7 +145,6 @@ This project helped in understanding:
 
 - Hyperparameter Tuning using GridSearchCV
 - Cross Validation
-- ROC-AUC Curve
 - Feature Selection
 - Model Deployment using Streamlit or Flask
 

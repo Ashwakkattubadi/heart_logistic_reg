@@ -154,4 +154,4 @@ This project helped in understanding:
 
 **Ashwak Kattubadi**
 
-GitHub: https://github.com/Ashwakkattubadi
+GitHub: https://github.com/Ashwakkattubadi/heart_logistic_reg.git
